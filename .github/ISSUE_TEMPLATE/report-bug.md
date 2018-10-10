@@ -1,6 +1,6 @@
 ---
 name: Report Bug
-about: Report Kardan Bug Dar Server
+about: Report Kardan Bug Dar Launcher
 
 ---
 
@@ -9,9 +9,6 @@ ___Lotfan User Name Server MadCraft Khoda Ra Dar In Ghesmat Vared Konid.___
 
 ___Lotfan Tozihati Darbareye Bug Erae Dahid.___
 ### Tozihat:
-
-___In Bug Dar Kodam GameMode Rokh Dade Ast?___
-### Gamemode:
 
 ___Dar Sorat Emkan Aks Ya Filmi Dar Mored Bug Erae Dahid.___
 ### Attachment:
